@@ -1,0 +1,44 @@
+`
+WARNING.. THIS IS ONLY FOR TESTING PURPOSE !!!
+{{$.Title}}
+
+======= {{$.Source}} NEWS ========
+Order Number : {{$.OrderInfo.OrderNumber}}
+Order Date Time : {{$.OrderInfo.OrderDateTime}}
+Shipping Method : {{$.OrderInfo.ShippingMethod}}
+Payment Method : {{$.OrderInfo.PaymentMethod}}
+Source Order : {{$.OrderInfo.SourceOrder}}
+====== Items Ordered ======
+Name : iPhone 7 Plus 128GB Rose Gold
+SKU : 8100001790
+Qty : 1
+Price : Rp 6.499.000
+Total : Rp 6.499.000
+====== Billing Address =======
+Saldinata Ardani
+Jalan Gatot Subroto
+Kota Adm. Jakarta Selatan
+Daerah Khusus Ibukota Jakarta
+12860
+Indonesia
+085376772063
+====== Shipping Address =======
+Saldinata Ardani
+Jl. Wibawa Mukti IV No.32, RT.004/RW.001, Jatimekar, Kec. Jatiasih, Kota Bks, Jawa Barat 17422, Indonesia
+Kota Bekasi
+Jawa Barat
+17422
+Indonesia
+085376772063
+====== Payment =======
+Subtotal : Rp 6.499.000
+Shipping Fee : Rp 2.120
+Grand Total : Rp 6.501.120
+Promo Applied : Could not get promo description
+
+
+Web Store  : https://eraspace.eratech.id
+Remote IP : Unavailable
+Execute by : Automate System
+Execute Time : 18-02-2022 19:29:47
+`
